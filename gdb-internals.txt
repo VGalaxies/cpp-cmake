@@ -1,0 +1,3 @@
+file ./build/main
+b main
+r < ./in
